@@ -61,4 +61,5 @@ Check out my repositories to explore my work and learning journey.
 My goal is to use data, statistics, and technology to solve real-world problems and create valuable insights from complex information.
 
 ## 📫 Connect With Me
-- Email: mdsaidurrahman.u@gmail.com
+- Email: saidurrahman.analyst@gmail.com
+- LinkedIn: saidur-rahman-link
