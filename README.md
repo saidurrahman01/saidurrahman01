@@ -62,4 +62,5 @@ My goal is to use data, statistics, and technology to solve real-world problems 
 
 ## 📫 Connect With Me
 - Email: saidurrahman.analyst@gmail.com
-- LinkedIn: saidur-rahman-link
+- LinkedIn:Click [Here](https://www.linkedin.com/in/saidur-rahman-link/)
+
