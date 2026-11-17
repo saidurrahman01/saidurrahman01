@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/github-profile-banner.svg" alt="Saidur Rahman — Data Analyst | SQL, Python, Excel and Power BI" width="100%">
+</p>
+
 # Hi, I'm Saidur Rahman
 
 ### Aspiring Data Analyst | Statistics Student | SQL • Python • Excel • Power BI
